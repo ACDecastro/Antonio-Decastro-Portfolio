@@ -27,3 +27,8 @@ Currently features my first collaborative project and a password generator assig
 ## Contact Page
 Uses contact.html
 Features a form to enter a name and email address as well as a submit button. Submit button currently has no functionality.
+
+# Contact
+Contact me on LinkedIn or Github
+- https://www.linkedin.com/in/antonio-decastro-58090915a/
+- https://github.com/ACDecastro/
