@@ -13,8 +13,11 @@ Clicking on "Portfolio" directs the user to portfolio.html.
 Clicking on "Contact" directs the user to contact.html.
 Clicking on "About Me" directs the user to aboutme.html.
 
+## Home Page
+Has a short introduction to the page and provides links to Github and LinkedIn.
+
 ## About Me Page
-Uses index.html.
+Uses aboutme.html.
 Features a self-portrait and a few paragraphs detailing my tech-related experiences.
 
 ## Portfolio Page
