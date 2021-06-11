@@ -1,7 +1,7 @@
 # Antonio-Decastro-Portfolio
 
 ## Usage
-Go to https://acdecastro.github.io/Antonio-Decastro-Portfolio/portfolio_works/adventurecompanion.html or click [here](https://acdecastro.github.io/Antonio-Decastro-Portfolio/portfolio_works/adventurecompanion.html) to view the portfolio.
+Go to https://acdecastro.github.io/Antonio-Decastro-Portfolio/ or click [here](https://acdecastro.github.io/Antonio-Decastro-Portfolio/) to view the portfolio.
 
 The source code can be viewed [here](https://github.com/ACDecastro/Antonio-Decastro-Portfolio)
 
